@@ -4,7 +4,8 @@
 
 - 📫You can reach me via LinkedIn account or email
   
-- ⚡ Fun fact: Learning much ... Feels Hotpotch in life ... Then to motivated..
+- ⚡ Fun fact: Learning much ... Feels Hotch
+- potch in life ... Then to motivated..
 
 <!---
 PoojanDoshi11/PoojanDoshi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
