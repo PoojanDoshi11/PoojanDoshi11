@@ -12,7 +12,7 @@
     <br>  
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing" />  
   </p>  
-  <p>Each skill has its own cool animation!</p>  
+  <p> Each skill way dynamic in their nature </p>
 </div>  
 
 
