@@ -4,22 +4,31 @@
   <h3>Welcome to my GitHub profile!</h3>
 </div>
 
----
+<hr style="border:1px solid #FF5733; width:80%; margin:auto;">
 
 ## 💻 Dynamic Skills
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing">
 </div>
 
-<div align="center">
-  <p>I'm currently learning and building expertise in:</p>
-  <ul>
-    <li>🔧 <b>Full-Stack Development</b>: Crafting dynamic web applications with Django and React.</li>
-    <li>🤖 <b>Machine Learning</b>: Exploring algorithms like regression and classification.</li>
-    <li>📊 <b>Data Analytics</b>: Turning data into meaningful insights.</li>
-    <li>✍️ <b>Story Writing</b>: Combining creativity with technology to tell captivating stories.</li>
-  </ul>
-</div>
+<table align="center">
+  <tr>
+    <td>🔧 <b>Full-Stack Development</b></td>
+    <td>Crafting dynamic web applications with Django and React.</td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Machine Learning</b></td>
+    <td>Exploring algorithms like regression and classification.</td>
+  </tr>
+  <tr>
+    <td>📊 <b>Data Analytics</b></td>
+    <td>Turning raw data into meaningful insights using tools like Pandas.</td>
+  </tr>
+  <tr>
+    <td>✍️ <b>Story Writing</b></td>
+    <td>Combining creativity with technology to tell captivating stories.</td>
+  </tr>
+</table>
 
 ---
 
@@ -32,10 +41,17 @@
 ---
 
 ## 🔮 Planned Projects
-1. **Portfolio Website**: A personal website to showcase my skills and projects.  
+1. **Portfolio Website**: A personal website to showcase my skills and projects (Tech stack: Django, Bootstrap).  
 2. **Event Management App**: A Django-based app to manage events, RSVPs, and schedules.  
 3. **Story Generator**: A Python-based tool for generating short stories using machine learning.  
-4. **Data Dashboard**: An interactive dashboard for visualizing datasets.  
+4. **Data Dashboard**: An interactive dashboard for visualizing datasets with Seaborn and Plotly.  
+
+---
+
+## 🏆 Achievements
+- 🌟 Participated in open-source contributions for [Hacktoberfest](https://hacktoberfest.com/).  
+- 🧑‍💻 Created a Django RSVP management system for events, streamlining attendance workflows.  
+- ✍️ Published technical blogs on full-stack development and creative storytelling.  
 
 ---
 
