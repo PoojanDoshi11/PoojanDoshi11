@@ -11,6 +11,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing">
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-PoojanDoshi11&style=flat-square&color=blue" alt="Profile Views">
+</div>
+
 <table align="center">
   <tr>
     <td>🔧 <b>Full-Stack Development</b></td>
@@ -29,6 +33,9 @@
     <td>Combining creativity with technology to tell captivating stories.</td>
   </tr>
 </table>
+
+
+
 
 ---
 
