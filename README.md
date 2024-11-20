@@ -6,8 +6,6 @@
   <h1 style="font-size: 2.5em; color: #333; margin: 0;">Hey there! I'm Poojan Doshi</h1>
   <h3 style="font-size: 1.5em; color: #555; margin: 0;">Welcome to my GitHub profile!</h3>
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <hr style="border:1px solid #FF5733; width:80%; margin:auto;">
 
@@ -15,7 +13,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing">
 </div>
-
 
 
 <table align="center">
@@ -36,6 +33,10 @@
     <td>Combining creativity with technology to tell captivating stories.</td>
   </tr>
 </table>
+---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
