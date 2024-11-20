@@ -1,80 +1,85 @@
- 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
-  <h2>Welcome to my GitHub profile!</h2>  
-</div>  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <h1>Hey there! I'm Poojan Doshi</h1>
+  <h3>Welcome to my GitHub profile!</h3>
+</div>
 
----  
-## 💻 Dynamic Skills  
+---
+
+## 💻 Dynamic Skills
 <div align="center">
-  <p>  
-    <b>I am passionate about:</b>  
-    <br>  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing" />  
-  </p>  
-  <p> Each skill way dynamic in their nature </p>
-</div>  
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FF5733&size=24&center=true&vCenter=true&lines=Full-Stack+Development;Machine+Learning;Data+Analytics;Story+Writing" alt="Dynamic Skills Typing">
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>  
-  <h2>It's me, Poojan Doshi!</h2>  
-</div>  
-
-Welcome to my GitHub profile! I'm a passionate computer engineer currently pursuing my **B.Tech in Computer Science and Engineering** at [Darshan University (DU)](https://www.darshan.ac.in/).  
+  <p>I'm currently learning and building expertise in:</p>
+  <ul>
+    <li>🔧 <b>Full-Stack Development</b>: Crafting dynamic web applications with Django and React.</li>
+    <li>🤖 <b>Machine Learning</b>: Exploring algorithms like regression and classification.</li>
+    <li>📊 <b>Data Analytics</b>: Turning data into meaningful insights.</li>
+    <li>✍️ <b>Story Writing</b>: Combining creativity with technology to tell captivating stories.</li>
+  </ul>
+</div>
 
 ---
 
-## 👨‍💻 About Me  
+## 🚀 Current Learning Goals
+- 🌱 Expanding my knowledge in **Django** and **React** to build modern web apps.  
+- 🧠 Diving deeper into **machine learning models** like decision trees and neural networks.  
+- 📈 Exploring tools for **data visualization** like Matplotlib and Seaborn.  
+- ✍️ Writing stories that blend creativity and technology for blogs or future publications.  
+
+---
+
+## 🔮 Planned Projects
+1. **Portfolio Website**: A personal website to showcase my skills and projects.  
+2. **Event Management App**: A Django-based app to manage events, RSVPs, and schedules.  
+3. **Story Generator**: A Python-based tool for generating short stories using machine learning.  
+4. **Data Dashboard**: An interactive dashboard for visualizing datasets.  
+
+---
+
+## 📫 Let's Connect!
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>  
-</div>  
-
-- 🌱 I’m currently exploring **Full-Stack Development**, **Machine Learning**, and **Data Science**.  
-- ✍️ I love writing stories and blending creativity with technology.  
-- 🔭 I’m working on improving my skills as a Python developer and exploring business analytics.  
-- ⚡ Fun fact: "Life feels like a hotchpotch of learning and growth, but I stay motivated to keep moving forward."  
-
----
-
-## 🚀 Languages & Tools  
-Here are the technologies I use:  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  <a href="https://www.linkedin.com/in/poojan-doshi-83a027283">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:poojandoshi.linkdin@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical"/>  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&theme=radical"/>  
-</div>  
+## 👨‍💻 Fun Facts About Me
+- 🎮 I love story-driven games and solo travel.  
+- ✍️ I'm an aspiring writer with a passion for blending storytelling and technology.  
+- 🌟 Fun fact: Life feels like a hotchpotch, but I stay motivated to grow and learn.
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/poojan-doshi-83a027283)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:poojandoshi.linkdin@gmail.com)  
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&theme=radical" alt="GitHub Streak">
+</div>
 
 ---
 
-### 🌟 Check out my pinned repositories:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repository-name&theme=radical)](https://github.com/your-github-username/repository-name)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=another-repository-name&theme=radical)](https://github.com/your-github-username/another-repository-name)  
+## 🔥 Check Out My Repositories
+<div align="center">
+  <p>Explore some of my pinned projects below:</p>
+  <a href="https://github.com/your-github-username/repository-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repository-name&theme=radical" alt="Repository Name">
+  </a>
+  <a href="https://github.com/your-github-username/another-repository-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=another-repository-name&theme=radical" alt="Another Repository Name">
+  </a>
+</div>
 
 ---
 
-### 🔥 Fun Animation  
-<div align="center">  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>  
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  <h2>Let's Code and Create Together!</h2>
 </div>
