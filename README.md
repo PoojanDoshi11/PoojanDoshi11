@@ -1,5 +1,144 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="120">
+  <div class="container">
+  <div class="boy">
+    <!-- Head -->
+    <div class="head"></div>
+    <!-- Body -->
+    <div class="body"></div>
+    <!-- Hands -->
+    <div class="hand waving"></div>
+    <div class="hand"></div>
+    <!-- Legs -->
+    <div class="leg"></div>
+    <div class="leg"></div>
+  </div>
+  <!-- Speech Bubble -->
+  <div class="speech-bubble">Hello!</div>
+</div>
+
+<style>
+  body {
+    background-color: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+  }
+
+  .boy {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+  }
+
+  /* Head */
+  .head {
+    width: 60px;
+    height: 60px;
+    background: #f4cc99;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 20px;
+  }
+
+  /* Body */
+  .body {
+    width: 80px;
+    height: 100px;
+    background: #3498db;
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    border-radius: 10px;
+  }
+
+  /* Hands */
+  .hand {
+    width: 20px;
+    height: 60px;
+    background: #f4cc99;
+    position: absolute;
+    top: 80px;
+    border-radius: 10px;
+  }
+
+  .hand.waving {
+    left: -20px;
+    animation: wave 2s infinite;
+  }
+
+  .hand:nth-child(4) {
+    right: -20px;
+  }
+
+  /* Legs */
+  .leg {
+    width: 20px;
+    height: 70px;
+    background: #2c3e50;
+    position: absolute;
+    top: 160px;
+    border-radius: 10px;
+  }
+
+  .leg:nth-child(5) {
+    left: 20px;
+  }
+
+  .leg:nth-child(6) {
+    right: 20px;
+  }
+
+  /* Speech Bubble */
+  .speech-bubble {
+    position: absolute;
+    top: -50px;
+    left: 120px;
+    width: 100px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    font-size: 16px;
+    color: #333;
+  }
+
+  .speech-bubble::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -10px;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-right-color: #fff;
+    border-left: 0;
+    margin-top: -10px;
+  }
+
+  /* Waving Animation */
+  @keyframes wave {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(30deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+</style>
+
   <h1>Hey there! I'm Poojan Doshi</h1>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
