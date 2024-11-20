@@ -1,10 +1,7 @@
-
-# 👋 Hello, I'm [Poojan Doshi](https://github.com/your-github-username)!  
-
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">  
-  <h2>Welcome to [Poojan Doshi](https://github.com/your-github-username)!  
- GitHub profile!</h2>  
+  <h2>Welcome to my GitHub profile!</h2>  
 </div>  
 
 ---  
