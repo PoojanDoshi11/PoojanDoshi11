@@ -97,8 +97,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&theme=radical" alt="GitHub Streak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?PoojanDoshi11=your-github-PoojanDoshi11&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-PoojanDoshii11&hide_border=true&theme=radical" alt="GitHub Streak">
 </div>
 
 ---
