@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="120">
   <h1>Hey there! I'm Poojan Doshi</h1>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
+
 
 <hr style="border:1px solid #FF5733; width:80%; margin:auto;">
 
