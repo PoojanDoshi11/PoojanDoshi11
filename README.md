@@ -76,8 +76,9 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PoojanDoshi11/github-readme-stats/master/themes/graph/pie-chart.svg" alt="Top Languages Pie Chart">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanDoshi11&theme=radical&layout=compact" alt="Top Languages">
 </div>
+
 
 
 <hr>
