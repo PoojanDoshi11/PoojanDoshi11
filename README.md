@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td>🔧 <b>Full-Stack Development</b></td>
-    <td>Crafting dynamic web applications with Django and React.</td>
+    <td>Crafting dynamic web applications with Django.</td>
   </tr>
   <tr>
     <td>🤖 <b>Machine Learning</b></td>
