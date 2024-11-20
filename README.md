@@ -1,5 +1,5 @@
 <div align="center">
- <iframe src="https://lottie.host/embed/84efb32c-c723-4949-81d2-088f365019ad/p7XGrsqARk.json"></iframe>
+ <img src="Animation - 1732091219245.gif"></img>
   <h1>Hey there! I'm Poojan Doshi</h1>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
