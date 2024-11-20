@@ -35,9 +35,11 @@
 <hr>
 
 ## 🏆 GitHub Trophies
+<br>
 
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11&theme=onedark)
-
+</div>
 <hr>
 
 ## 🚀 Current Learning Goals
