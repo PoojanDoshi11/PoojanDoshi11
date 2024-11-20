@@ -1,5 +1,5 @@
 <div align="center">
- <img src="Animation - 1732091219245.gif"></img>
+ <img src="https://github.com/PoojanDoshi11/assets-for-profile/blob/main/Animation%20-%201732091219245.gif">
   <h1>Hey there! I'm Poojan Doshi</h1>
   <h3>Welcome to my GitHub profile!</h3>
 </div>
