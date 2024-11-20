@@ -73,6 +73,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanDoshi11&theme=radical&layout=compact" alt="Top Languages">
+</div>
+
+
 <hr>
 
 ## 📫 Let's Connect!
