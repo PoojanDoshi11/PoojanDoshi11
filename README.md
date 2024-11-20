@@ -35,10 +35,8 @@
 <hr>
 
 ## 🏆 GitHub Trophies
-<br>
-
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11&theme=onedark)
+  <img src="https://github-profile-trophy.vercel.app/?username=PoojanDoshi11&theme=onedark" alt="GitHub Trophies">
 </div>
 <hr>
 
