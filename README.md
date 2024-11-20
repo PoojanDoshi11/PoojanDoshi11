@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11)](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11&theme=onedark)
 
 <hr>
 
