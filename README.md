@@ -6,6 +6,7 @@
   <h1 style="font-size: 2.5em; color: #333; margin: 0;">Hey there! I'm Poojan Doshi</h1>
   <h3 style="font-size: 1.5em; color: #555; margin: 0;">Welcome to my GitHub profile!</h3>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=PoojanDoshi11)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <hr style="border:1px solid #FF5733; width:80%; margin:auto;">
