@@ -40,18 +40,28 @@
 
 ---
 
-## 🔮 Planned Projects
-1. **Portfolio Website**: A personal website to showcase my skills and projects (Tech stack: Django, Bootstrap).  
-2. **Event Management App**: A Django-based app to manage events, RSVPs, and schedules.  
-3. **Story Generator**: A Python-based tool for generating short stories using machine learning.  
-4. **Data Dashboard**: An interactive dashboard for visualizing datasets with Seaborn and Plotly.  
+## 🔨 Ongoing Projects
+1. **Event Management Web App**  
+   A Django-based web app to manage events, RSVPs, schedules, and more.  
+
+2. **Electr-O-Mystry: 1 (The Build)**  
+   A story blending creativity with technical elements, currently in progress.  
 
 ---
 
-## 🏆 Achievements
-- 🌟 Participated in open-source contributions for [Hacktoberfest](https://hacktoberfest.com/).  
-- 🧑‍💻 Created a Django RSVP management system for events, streamlining attendance workflows.  
-- ✍️ Published technical blogs on full-stack development and creative storytelling.  
+## 🛠️ Technologies I Know
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/MVC%20of%20.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</div>
 
 ---
 
@@ -78,19 +88,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&theme=radical" alt="GitHub Streak">
-</div>
-
----
-
-## 🔥 Check Out My Repositories
-<div align="center">
-  <p>Explore some of my pinned projects below:</p>
-  <a href="https://github.com/your-github-username/repository-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=repository-name&theme=radical" alt="Repository Name">
-  </a>
-  <a href="https://github.com/your-github-username/another-repository-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=another-repository-name&theme=radical" alt="Another Repository Name">
-  </a>
 </div>
 
 ---
