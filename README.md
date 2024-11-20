@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/poojan-doshi-83a027283)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:poojandoshi.linkdin@gmail.com)  
 
 ---
 
